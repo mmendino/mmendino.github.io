@@ -1,13 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Some Background
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am Melissa Mendino Solano, a senior at Williams College studying Studio Art and Psychology.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Some fun facts:
+
+- I'm from Houston, TX
+- My favorite color is pink
+- I love my truck, she's a beaut
 
 What else do you need?
 
