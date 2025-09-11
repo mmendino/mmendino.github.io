@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Melissa's Website
+title: Meli's eTextiles
 
 # Your name to show in the footer
 author: Melissa Mendino Solano
@@ -22,9 +22,9 @@ author: Melissa Mendino Solano
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - CSCI Glow: "https://glow.williams.edu/courses/7526173"
+    - Markdown Cheatsheet: "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
+  
 
 ################
 # --- Logo --- #
@@ -65,7 +65,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  spotify: yourname
+  spotify: meli.cx
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
@@ -120,7 +120,7 @@ feed_show_tags: true
 post_search: true
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
+edit_page_button: false
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
@@ -140,11 +140,11 @@ page-col: "#FFF0F5"
 text-col: "#5F9EA0"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-navbar-col: "#E6E6FA"
-navbar-text-col: "#DDA0DD"
+navbar-col: "#D8BFD8"
+navbar-text-col: "#FFF0F5"
 navbar-border-col: "#DDDDDD"
-footer-col: "#E6E6FA"
-footer-text-col: "#DDA0DD"
+footer-col: "#D8BFD8"
+footer-text-col: "#FFF0F5"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
