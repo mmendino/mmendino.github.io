@@ -22,10 +22,6 @@ My favorite color is pink.
 
 
 
-## My senior textile piece
-
-
-![A squareish textile piece depicting a blue chair and pink table in front of a brick wall. A cake with embroidered strawberries sits on the table and a beaded number two candle is on the cake. Beside the cake is a Yakult bottle.](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
-
-<p style="text-align: center;">Melissa Mendino Solano, *wisps of (a) home*, 2025, hand-sewn, embroidered, and beaded textile</p>
+![A squareish textile piece depicting a blue chair and pink table in front of a brick wall. A cake with embroidered strawberries sits on the table and a beaded number two candle is on the cake. Beside the cake is a Yakult bottle.](https://raw.githubusercontent.com/mmendino/mmendino.github.io/refs/heads/master/assets/img/wispsofhome.jpg){: .mx-auto.d-block :}
+Melissa Mendino Solano, *wisps of (a) home*, 2025, hand-sewn, embroidered, and beaded textile
 
