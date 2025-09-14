@@ -9,9 +9,9 @@ author: Melissa Mendino Solano
 
 Hello!
 
-I am Melissa Mendino Solano and I am senior Psychology and Studio Art Major. I am interested in the education system and love to work oral history in art.
+I am Melissa Mendino Solano and I am senior Psychology and Studio Art Major. I am interested in education and working with family history, specifically history from my small town in Mexico.
 
-My work primarily consists of textiles, and thus I would consider myself proficient in sewing. Although I know how to machine sew, I greatly prefer hand-sewing.
+I primarily work with textiles in my art - hand-sewing and embroidering. I have hand-sewn a queen sized quilt, but also my senior seminar art piece. 
 
 I do not have any programming experience, although I have always wished I was part of the *myspace* era.
 
