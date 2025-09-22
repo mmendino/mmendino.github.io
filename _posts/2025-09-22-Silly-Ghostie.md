@@ -12,10 +12,10 @@ As my first attempt at ASCII art, I have created a code to make a silly little l
 I chose this because I am quite fond of little lopsided, flat ghosts with uneven eyes! My love of this ghostie comes from
 the first time I tried applique - I attempted to applique a ghost but he ended up flat, spreading to the right, and with uneven eyes.
 
-INSERT IMAGE HERE
+![A ghost made up of symbols saying i'm a ghostie](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/imaghostie.jpg?raw=true)
 
 My ghostie is created by space characters, back slashes, forward slashes, dashes, underscores, astericks and letters.
-A trick I learned is that to printf a "\" you need to do two "\\"
+A trick I learned is that to printf a backslash you need to type two backslashes.
 
 If you would like to recreate this ghostie, or make it your own, you can find the code below!
 
