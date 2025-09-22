@@ -23,7 +23,7 @@ In addition to these stitches, we had the opportunity to choose two more stitche
 + chain stitch
 + woven rose stitch
 
-*One thing I wish I knew prior to this project is that seam rippers should never be forgotten!*
+##### One thing I wish I knew prior to this project is that seam rippers should never be forgotten!
 I was trying to remove my stem stitches from next to my completed satin stitches on the W... and I cut off half of my satin stitches. I only had my scissors on hand, and wanted to finish the W on that sewing sesh, and tried to cut off the top part of the stem stitches. I succeeded in removing the stem stitches, but also cut off the edge of my satin stitches and had to remove those as well... Had I had a seam ripper, I could have made the cuts more precise and saved myself from redoing more work. 
 
 Here is the front of my sewing sampler: 
