@@ -29,4 +29,6 @@ Doing that before would have helped me be more organized and allowed me to check
 I think I did a good job of checking my code at the beginning of the process, to understand what was going on in the code and if any errors popped up.
 But I also think that I added too many statements and got caught up on figuring out what someone needed to wear at a certain temperature.
 
+Another thing to keep in mind - the _else_ statement! I completely forgot about it, and had my catch all be in the _if_ statement, therefore no input would output my _else_ statement. I had ended up moving my _if_ statement output to the _else_ statement and moving my first _else if_ statement to the _if_ statement. 
+
 Despite getting stuck on the ranges, I really enjoyed coding the program once I know what I was doing!! I think it would be fun to try to figure out what else I could do with if / else if / else statements, maybe also making certain lights turn on for different temperatures or noise levels!
