@@ -28,3 +28,5 @@ to be output before I started to code. I kept getting stuck on what ranges I had
 Doing that before would have helped me be more organized and allowed me to check my code while I worked on the program.
 I think I did a good job of checking my code at the beginning of the process, to understand what was going on in the code and if any errors popped up.
 But I also think that I added too many statements and got caught up on figuring out what someone needed to wear at a certain temperature.
+
+Despite getting stuck on the ranges, I really enjoyed coding the program once I know what I was doing!! I think it would be fun to try to figure out what else I could do with if / else if / else statements, maybe also making certain lights turn on for different temperatures or noise levels!
