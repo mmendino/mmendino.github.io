@@ -11,12 +11,17 @@ depending on the the temperature in Fahrenheit.
 As part of the assignment, we had to create at least 5 different statements, and ensure that a wide range of temperatures would produce an appropriate output.
 
 Here is the output if the temperature is 300°F:
+![Output reads: Temp is 300 degrees, do not go outside. you do not have any clothing to be able to survive.](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/sweater300.jpg?raw=true)
 
 Here is the output for 80°F:
+![Output reads: Temp is 80 degrees, shorts or pants are okay, any tshirt is good.](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/sweater80.jpg?raw=true)
 
 For 30°F:
+![Output reads: Temp is 30 degrees. Winter jacket, sweater, pants, gloves. Maybe base layers. It's officially freezing.](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/sweater30.jpg?raw=true)
 
 And for -40°F:
+![Output reads: Temp is negative 40 degrees, do not go outside. you do not have any clothing to be able to survive.](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/sweater-40.jpg?raw=true)
+
 
 Something that I wish my past self knew going into this project would be to create my ranges of temperatures with what I wanted
 to be output before I started to code. I kept getting stuck on what ranges I had to do next, and what temperatures were missing.
