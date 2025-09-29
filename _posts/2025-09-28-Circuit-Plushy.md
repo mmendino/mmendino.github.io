@@ -26,13 +26,14 @@ Here is the front and back of my circuit!
 
 <details markdown="1">
 <summary>The Oopsie</summary>
-![Cut stainless steel thread on the back of the plushy](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/plushy_circuit_oops.jpeg?raw=true)
+<center><img src="/assets/img/plushy_circuit_oops.jpeg" width="60%" /></center>
+
 I cut the stainless steel thread where I messed up, and added more thread to resew the circuit including the negative side of the LED that was left out!
 </details>
 
 Once my circuit was working and completed, I embroidered the luna moth design onto my felt to create Mr. Mothie! He was then stuffed with some fabric scraps to help prevent the circuit from short-circuting, and had his antannea sewn on before he was fully stitched closed.
 
-#### The completed Mr. Mothie!
+<center><b>The completed Mr. Mothie!</b></center>
 ![Front of Plushy on](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/plushy_front_on.jpeg?raw=true)
 
 <p float="center">
