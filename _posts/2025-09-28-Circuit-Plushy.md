@@ -2,21 +2,19 @@
 layout: post
 title: Mr. Mothie
 subtitle: The making of a plushy that can light up!
-thumbnail-img: /assets/img/plushy_front_on.jpeg
+thumbnail-img: /assets/img/plushy_front_onSMALL.jpeg
 tags: [circuits, sewing]
 author: Melissa Mendino Solano
 ---
 
-#### Mr. Mothie has been born!!
+The creation of Mr. Mothie began with an assignment to sew a circuit with 3 LEDs, a switch and a button into a felt plushy. I began by designing the front of my plushy to determine where the LEDs were going to be placed, ending up with inspiration from luna moths at the suggestion of Alex Marshall!
 
-My plushy was created during an assignment where I had to build a circuit with 3 LEDs, a button and a switch.
-I wasn't sure what I wanted to create but Alex Marshall helped inspire me
-by showing me luna moths! Athough the shape isn't exactly like a luna moth, and the fake eyes aren't exactly like the ones on their wings,
-I hope that the antennea give the vibe of a luna moth!
+Once I decided on the LEDs placement, I created a paper prototype of how the wires would lay on the plushy to create the circuit. I then tested the prototype with alligator clips to ensure my circuit worked.
 
-Once I decided where the LEDs were going to go, I created a paper prototype which I then tested with alligator clips! I then embroidered the
-luna moth design onto my felt, and used stainless steel thread to sew the circuit onto my plushy. Mr. Mothie was stuffed with some fabric
-scraps to help prevent the circuit from short-circuting, and then had his antannea sewn on before he was fully stitched closed.
+Here are the prototypes made!
+![HOLD IMAGE](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/imaghostie.jpg?raw=true "Hold image" =40%) ![Alligator Clips creating circuit with LEDs, switch and button.](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/plushy_circuit_prototype_alligator.jpeg?raw=true "Alligator Clips" =40%)
+
+I then embroidered the luna moth design onto my felt, and used stainless steel thread to sew the circuit onto my plushy. Mr. Mothie was stuffed with some fabric scraps to help prevent the circuit from short-circuting, and then had his antannea sewn on before he was fully stitched closed.
 
 Here is the:
 <details markdown="1">
