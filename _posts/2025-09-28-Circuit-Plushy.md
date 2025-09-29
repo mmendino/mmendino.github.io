@@ -13,7 +13,7 @@ Once I decided on the LEDs placement, I created a paper prototype of how the wir
 
 Here are the prototypes made!
 <p float="center">
-  <img src="/assets/img/imaghostie.jpg" width="49%" />
+  <img src="/assets/img/plushy_circuit_prototype_paper.jpeg" width="49%" />
   <img src="/assets/img/plushy_circuit_prototype_alligator.jpeg" width="49%" />
 </p>
 
