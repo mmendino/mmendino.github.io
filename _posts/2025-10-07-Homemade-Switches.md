@@ -1,4 +1,4 @@
-![switches_paper](https://github.com/user-attachments/assets/387f53ee-e67a-4e1b-9156-220fb6a6397a)---
+---
 layout: post
 title: Homemade Switches Practice
 subtitle: Creating a switches from conductive materials!
