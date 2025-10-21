@@ -11,10 +11,13 @@ This was part 1 of a midterm project! Using a state-based approach (instead of a
 The point of using a state-based approach, which is super hard btw, is to be able to program mulitple things at the same time without having a delay for one that doesn't work for another one. The sequential approach depends more on delays to determine when to do something, but is more straightforward if you know what the behavior needs to be. State-based however requires you to figure out what states you need to catch at the beginning of the state or to update a variable.
 
 The flashbulb firefly only needed to catch start on, and to catch start off. I had to catch start on every 4 seconds and start off every 500 seconds. Here is a picture of the light on while the timer ran!
+![On a LilyPad - a blue light on port A9 is on](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/fireflies_flashbulb.JPG?raw=true)
 
 The big dipper firefly had to catch start on, catch start off, and catch increase brightness! I had to create a variable for brightness since brightness had to increase every 100ms and then turn off when it reached max brightness. I also had to create a variable for how much to increase brightness (fadeAmount) and when (increaseTime). Here is a picture of it while it is on and increasing in brightness!
+![On a LilyPad - a red builtin light is on](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/fireflies_bigdipper.JPG?raw=true)
 
 The synchronous firefly had a lot more states to catch! The pattern was to flash three times quickly every 10 seconds, with a different amount of time on than the handout. I had to catch ON at the beginning, Off at the end, off during the phase, and on during the phase as well as updating other variables needed to determine if it was inPhase, how many times it had flashed (synchCount), and if the light was on or off (synchIsOn). Here is a pic of it during inPhase flashing!
+![On a LilyPad - a blue light on port 11 is on](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/fireflies_synch.JPG?raw=true)
 
 
 One tip I have for past me is to comb through each line to figure out what is being done. I kept getting stuck as to why my code wasn't working and moving lines of code around was helpful when the light wasn't doing what I wanted it to. But at one point, it wouldn't stop being on, and Iris helped point me to where I forgot to update a variable.
