@@ -2,7 +2,7 @@
 layout: post
 title: Ghost Detector
 subtitle: Ghosts come out when it's dark and cold :(
-tags: [lights, sensors]
+tags: [light-sensor, temp-sensor, ghosts]
 author: Melissa Mendino Solano
 ---
 
