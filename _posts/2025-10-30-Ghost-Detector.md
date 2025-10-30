@@ -1,9 +1,10 @@
---
+---
 layout: post
 title: Ghost Detector
 subtitle: Ghosts come out when it's dark and cold :(
+tags: [lights, sensors]
 author: Melissa Mendino Solano
---
+---
 
 Sound the ghost alarm when it's dark and cold because the ghosties might sneak up on us! For this assignment, I had to turn on the onboard red LED and another red LED whenever it was cold and dark.
 
