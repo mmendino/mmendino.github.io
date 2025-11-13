@@ -7,6 +7,7 @@ tags: [final project, proposal]
 ---
 
 This is my project proposal for my final project:
+
 **the Knitting-Aid a companion to all knitters!**
 
 I have been trying to knit the sophie hood by PetiteKnit this semester, hopefully to finish before I graduate. But I have been having a hard time keeping track of all of my rows. I need to increase and later decrease after every 10th row, but sometimes I forget to mark down what row I'm on, and get confused.
