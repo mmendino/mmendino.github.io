@@ -19,7 +19,7 @@ There will also be an option to know what row I am one by opening a pouch to the
 I will also try to make it reset my rows by making it super bright.
 
 Here is my proposal:
-![](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/theKnittingAid2.0.jpg?raw=true)
+![](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/theKnittingAid3.0.jpg?raw=true)
 
 Materials Available:
 - 1 LilyPad Arduino Plus
