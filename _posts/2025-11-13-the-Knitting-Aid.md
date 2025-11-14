@@ -21,11 +21,17 @@ I will also try to make it reset my rows by making it super bright.
 Here is my proposal:
 ![](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/theKnittingAid2.0.jpg?raw=true)
 
-Materials that I believe I will need:
-- 2 small 1x1 inch pieces of conductive fabric
-- 2 small Velcro dots to store the tea bag on the back of the plushy and ensure the light sensor stays closed in
-- different colored felt papers, ideally pink, purple, white, blue
+Materials Available:
+- 1 LilyPad Arduino Plus
+- 1 light sensor
+- 1 buzzer
 - 4 pink LEDs
+- green felt
+
+Materials Needed:
+- 2 1x1 inch pieces of conductive fabric
+- 3 small Velcro dots (to store the tea bag on the back of the plushy and ensure the light sensor stays closed in)
+- Felt sheets: ideally pink, purple, white, blue
 - possibly fabric paint to insulate one of traces
 - a small amount of stuffing so my plushy is soft
 
