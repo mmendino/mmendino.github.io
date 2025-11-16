@@ -6,7 +6,8 @@ author: Melissa Mendino Solano
 tags: [random, arrays, pwms]
 ---
 
-For this assignment, we had to use the PWM (analog) pins on our Lilypad Arduinos! 
+For this assignment, we had to use the PWM (analog) pins on our Lilypad Arduinos! Every second the arduino has to choose a random pin and either turn it on to a random brightness or turn it if off if it was already on. I used an array to store the pin numbers, and also a boolean array to store whether the pin the was on or off. For the set up, I was able to use a for loop to set up the different pin numbers since they were in an array instead of having to set up each one individually. After that, I needed to choose a random pin, then a random brightness if the pin was off.
+
 
 Here is a picture of when all of my PWM pins were randomly on, and one picture during a random segment of flashing.
 
