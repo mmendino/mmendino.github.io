@@ -8,7 +8,7 @@ tags: [final project, proposal]
 
 This is my project proposal for my final project:
 
-**the Knitting-Aid a companion to all knitters!**
+**the Knitting-Aid! a companion to all knitters!**
 
 I have been trying to knit the sophie hood by PetiteKnit this semester, hopefully to finish before I graduate. But I have been having a hard time keeping track of all of my rows. I need to increase and later decrease after every 10th row, but sometimes I forget to mark down what row I'm on, and get confused.
 That's where the Knitting-Aid comes into play! It will keep track of my rows and all I have to do is press a button to let it know I have completed a row.
@@ -19,7 +19,7 @@ There will also be an option to know what row I am one by opening a pouch to the
 I will also try to make it reset my rows by making it super bright.
 
 Here is my proposal:
-![](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/theKnittingAid3.0.jpg?raw=true)
+![project proposal slide for the Knitting-Aid! Includes motivation, what it does, and materials list](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/theKnittingAid3.0.jpg?raw=true)
 
 Materials Available:
 - 1 LilyPad Arduino Plus
