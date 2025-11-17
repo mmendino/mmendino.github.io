@@ -1,6 +1,6 @@
 ---
 layout: post
-title: the Knitting-Aid!
+title: the Knitting-Aid! Proposal
 subtitle: A plushie that helps you keep track of your knitting rows!
 author: Melissa Mendino Solano
 tags: [final project, proposal]
