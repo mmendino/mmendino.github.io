@@ -14,3 +14,5 @@ Here is a picture of when all of my PWM pins were randomly on, and another pictu
 ![only the red, green and yellow lights are on](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/arrays2.jpg?raw=true)
 
 Tip to myself: After the code works, go back to see what could be more efficient! I write out comments for what states I have to catch, and it helps me organize my code and write it out. But, I ended up using if, else if, instead of just if and else because I was writing what needed to happen. I simplified that, and then I realized that I had created an extra variable that I didn't need for the random pin choice, and was able edit my code further.
+
+Oh another thing!! Create a variable for the time delay - since we are only repeating it once, you just need to do delay(time). 
