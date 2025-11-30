@@ -2,7 +2,7 @@
 layout: post
 title: the Knitting-Aid, Update Two
 subtitle: Code is up and running! Onto sewing!
-tags: [final project, sewing]
+tags: [final project, update]
 author: Melissa Mendino Solano
 ---
 
