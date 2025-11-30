@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Update on the Knitting-Aid
+title: the Knitting-Aid, Update One
 subtitle: How the project is going >.<
 author: Melissa Mendino Solano
 tags: [final project, update]
