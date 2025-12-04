@@ -31,7 +31,9 @@ Here is an image of my alligator prototyping stage!
 <details markdown="1">
 <summary>The Inside and Outside of my circuit</summary>
 <center><img src="/assets/img/knittingAid_inside.jpg" width="60%" /></center>
+ 
 <center><img src="/assets/img/knittingAid_outside.jpg" width="60%" /></center>
+</details>
 
 **Tips to my past self!**
 - Do not forget to code your project in sections! I was overconfident and tried to code my actions all together, but realized that I couldn't test it unless it was in separate files.
