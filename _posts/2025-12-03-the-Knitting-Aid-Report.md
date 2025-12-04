@@ -44,18 +44,17 @@ Here is an image of my alligator prototyping stage!
 
 <details markdown="1">
 <summary>The Inside and Outside of my circuit</summary>
-<center><img src="/assets/img/knittingAid_inside.jpg" width="60%" /></center>
+<center><img src="/assets/img/knittingAid_inside.jpg" width="80%" /></center>
 
- 
-<center><img src="/assets/img/knittingAid_outside.jpg" width="60%" /></center>
+<center><img src="/assets/img/knittingAid_outside.jpg" width="80%" /></center>
 </details>
 
 <center><b>The Completed Knitting-Aid!</b></center>
 ![front of knitting-aid with teabag](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/knittingAid_Comp.jpg?raw=true)
 
-<p float="center">
-  <img src="assets/img/knittingAid_Comp_front.jpg" width="49%" />
-  <img src="assets/img/knittingAid_Comp_back.jpg" width="49%" />
+<p>
+<img src="/assets/img/knittingAid_Comp_front.jpg" width="48%" />
+<img src="/assets/img/knittingAid_Comp_back.jpg" width="48%" />
 </p>
 
 **Tips to my past self!**
