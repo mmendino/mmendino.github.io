@@ -16,16 +16,19 @@ This wasn't very comfortable and sometimes I would lose my writing instrument, w
 
 Materials List:
 | Lilypad Components | Plushy Creation | Other |
-| :---: |:---: | :---: |
+| :---: | :---: | :---: |
 | 4 pink LEDs | pink felt | sewing needle |
 | Buzzer | light purple felt | scissors |
 | conductive thread | dark purple felt | alligator clips |
 | Lilypad Arduino | green felt | velcro strip |
-| Light Sensor | pink thread | |
-| Conductive Fabric | white felt | |
-| LiPo Battery | cream thread | |
-|  | polyfill stuffing | |
+| Light Sensor | pink thread | f|
+| Conductive Fabric | white felt | f |
+| LiPo Battery | cream thread | f |
+|  f | polyfill stuffing | f |
 
 Tips to my past self!
 - Do not forget to code your project in sections! I was overconfident and tried to code my actions all together, but realized that I couldn't test it unless it was in separate files.
-- For the button counter, 
+- For the button counter,
+
+Citations:
+
