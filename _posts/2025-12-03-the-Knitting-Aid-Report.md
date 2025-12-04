@@ -6,6 +6,8 @@ tags: [final project, complete]
 author: Melissa Mendino Solano
 ---
 
+<center><img src="/assets/img/knittingAid_Comp.jpg" width="80%" /></center>
+
 the Knitting-Aid! is an adorable teacup-shaped product helps a knitter (or crocheter) keep track of their rows and informs them when it is time to make a change! This specific model shows the knitter when they are on every 10th row to increase or decrease their stitches. You simply need to press the teabag shaped button after you have completed a row, and it will keep track of the total rows. When you reach the 10th row, a little tune will play and a cyan light will turn on!
 
 The motivation for this product arose from my issue trying to keep track of my rows while knitting the Sophie Hood by PetiteKnit. I was knitting the large size where I had to increase every 10th row, but needed to keep a notebook and pen to count my rows. This wasn't very comfortable and sometimes I would lose my pen, which is why, with the Knitting-Aid, you simply have to push a button to count your rows and it will inform you when it is time to increase. *(Plus it's prettier than other row counters)*
@@ -49,21 +51,17 @@ Here is an image of my alligator prototyping stage!
 <center><img src="/assets/img/knittingAid_outside.jpg" width="80%" /></center>
 </details>
 
-
-<center><b>The Completed Knitting-Aid!</b></center>
-![front of knitting-aid with teabag](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/knittingAid_Comp.jpg?raw=true)
-
-<p float="center">
-<img src="/assets/img/knittingAid_Vid_outside.gif" width="70%" />
+<p>
 </p>
-
-<details markdown="1">
-<summary>More details</summary> 
+<center><b>Front and Back of the Knitting-Aid!</b></center>
 <p float="center">
 <img src="/assets/img/knittingAid_Comp_front.jpg" width="48%" />
 <img src="/assets/img/knittingAid_Comp_back.jpg" width="48%" />
 </p>
-</details>
+<p float="center">
+<img src="/assets/img/knittingAid_Vid_outside.gif" width="70%" />
+</p>
+
 
 ## The Knitting-Aid! in Action!
 #### Adding 3 to the row count, and opening the light sensor flap to make the pink LEDs light up with the binary number.
@@ -94,4 +92,5 @@ Here is an image of my alligator prototyping stage!
 Citations:
 - Tinkerbell DS Game Title Theme: [musescore](https://musescore.com/user/84558067/scores/19627369)
 - Turninig Music Sheet to Arduino Code: [Intructables](https://www.instructables.com/Arduino-Music-From-Sheet-Music/)
-- compress.mov to convert .mov videos to .mp4
+- .mov videos to .mp4: compress.mov
+- .mp4 to .gif: Freeconvert.com
