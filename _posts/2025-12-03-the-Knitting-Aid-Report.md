@@ -25,9 +25,19 @@ Conductive Fabric | white felt |
  LiPo Battery | cream thread |
 | | polyfill stuffing |
 
-Tips to my past self!
+**Tips to my past self!**
 - Do not forget to code your project in sections! I was overconfident and tried to code my actions all together, but realized that I couldn't test it unless it was in separate files.
-- For the button counter, 
+- For the button counter, utilize two different state variables to determine if the button is pressed, and if it was previously pressed or not. Also a small delay will not completely kill your code!
+- analogRead for the button doesn't work to make the counter.
+- Carefully comb through the scope of the different functions created. I was having trouble with the colors that changed for the place values of the rowNumber, but it turned out that it was because one of my variables wasn't being seen by the function.
+- Add a for statement to make sure that the buzzer only plays once!
+
+**Proud of myself for:**
+- Making the code easy to modify for different patterns! You simply need to update the changeRow at the top of the code and it will do the math for you!
+- Getting the button to work!!
+- Learning to read binary numbers
+- Coding music from a music sheet
+- using the onboard LEDs to test my code
 
 
 Citations:
