@@ -49,6 +49,8 @@ Here is an image of my alligator prototyping stage!
 <center><img src="/assets/img/knittingAid_outside.jpg" width="80%" /></center>
 </details>
 
+[![Watch the video](https://raw.githubusercontent.com/mmendino/mmendino.github.io/blob/master/assets/img/knittingAid_inside.jpg)](https://raw.githubusercontent.com/mmendino/mmendino.github.io/blob/master/assets/img/knittingAid_Vid_outside.mp4)
+
 <center><b>The Completed Knitting-Aid!</b></center>
 ![front of knitting-aid with teabag](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/knittingAid_Comp.jpg?raw=true)
 
