@@ -53,6 +53,10 @@ Here is an image of my alligator prototyping stage!
 <center><b>The Completed Knitting-Aid!</b></center>
 ![front of knitting-aid with teabag](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/knittingAid_Comp.jpg?raw=true)
 
+<p float="center">
+<img src="/assets/img/knittingAid_Vid_outside.gif" width="70%" />
+</p>
+
 <details markdown="1">
 <summary>More details</summary> 
 <p float="center">
@@ -63,9 +67,14 @@ Here is an image of my alligator prototyping stage!
 
 ## The Knitting-Aid! in Action!
 #### Adding 3 to the row count, and opening the light sensor flap to make the pink LEDs light up with the binary number.
+<p float="center">
+<img src="/assets/img/knittingAid_Vid_Counts.gif" width="70%" />
+</p>
 
 #### Reaching 9 completed rows to be working on the 10th row. Cyan light turns on and the Tinkerbell tune plays.
-
+<p float="center">
+<img src="/assets/img/knittingAid_Vid_buzzer_13.34.16.gif" width="70%" />
+</p>
 
 **Tips to my past self!**
 - Do not forget to code your project in sections! I was overconfident and tried to code my actions all together, but realized that I couldn't test it unless it was in separate files.
