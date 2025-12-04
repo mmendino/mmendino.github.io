@@ -45,8 +45,24 @@ Materials List:
 | | 1 white embroidery floss |
 | | 1 green embroidery floss|
 
-Here is an image of my alligator prototyping stage!
-![Lilypad connected to many alligator clips and all the components needed](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/knittingAid_alligator.jpg?raw=true)
+### Prototyping Stages
+#### Paper Prototype:
+Front of the teacup
+<p float="center">
+<img src="/assets/img/theKnittingAid Front Prototype.jpg" width="90%" />
+</p>
+Back of the teacup
+<p float="center">
+<img src="/assets/img/theKnittingAid Back Prototype.jpg" width="90%" />
+</p>
+
+#### Lilypad Onboard LEDs and Button Prototype:
+
+
+#### Alligator Clip Prototype:
+<p float="center">
+<img src="/assets/img/knittingAid_alligator.jpg" width="90%" />
+</p>
 
 <details markdown="1">
 <summary>The Inside and Outside of my circuit</summary>
@@ -56,6 +72,7 @@ Here is an image of my alligator prototyping stage!
 <center><img src="/assets/img/knittingAid_outside.jpg" width="80%" /></center>
 </details>
 
+### Final Product
 <p>
 </p>
 <center><b>Front and Back of the Knitting-Aid!</b></center>
