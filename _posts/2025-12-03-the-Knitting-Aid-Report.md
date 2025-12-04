@@ -15,6 +15,8 @@ The motivation for this product arose from my issue trying to keep track of my r
 This wasn't very comfortable and sometimes I would lose my writing instrument, which is why, with the Knitting-Aid, you simply have to push a button to count your rows and it will inform you when it is time to increase.
 
 Materials List:
+
+
 | Lilypad Components | Plushy Creation | Other |
 | :---: | :---: | :---: |
  4 pink LEDs | pink felt | sewing needle
@@ -24,7 +26,8 @@ conductive thread | dark purple felt | alligator clips
  Light Sensor | pink thread |
 Conductive Fabric | white felt |
  LiPo Battery | cream thread |
-| polyfill stuffing |
+| | polyfill stuffing |
+
 
 
 Tips to my past self!
