@@ -25,6 +25,14 @@ Conductive Fabric | white felt |
  LiPo Battery | cream thread |
 | | polyfill stuffing |
 
+Here is an image of my alligator prototyping stage!
+![Lilypad connected to many alligator clips and all the components needed](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/knittingAid_alligator.jpg?raw=true)
+
+<details markdown="1">
+<summary>The Inside and Outside of my circuit</summary>
+<center><img src="/assets/img/knittingAid_inside.jpg" width="60%" /></center>
+<center><img src="/assets/img/knittingAid_outside.jpg" width="60%" /></center>
+
 **Tips to my past self!**
 - Do not forget to code your project in sections! I was overconfident and tried to code my actions all together, but realized that I couldn't test it unless it was in separate files.
 - For the button counter, utilize two different state variables to determine if the button is pressed, and if it was previously pressed or not. Also a small delay will not completely kill your code!
