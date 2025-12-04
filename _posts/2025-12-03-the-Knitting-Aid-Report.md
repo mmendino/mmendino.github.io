@@ -49,7 +49,6 @@ Here is an image of my alligator prototyping stage!
 <center><img src="/assets/img/knittingAid_outside.jpg" width="80%" /></center>
 </details>
 
-[![Watch the video](https://raw.githubusercontent.com/mmendino/mmendino.github.io/blob/master/assets/img/knittingAid_inside.jpg)](https://raw.githubusercontent.com/mmendino/mmendino.github.io/blob/master/assets/img/knittingAid_Vid_outside.mp4)
 
 <center><b>The Completed Knitting-Aid!</b></center>
 ![front of knitting-aid with teabag](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/knittingAid_Comp.jpg?raw=true)
@@ -63,6 +62,9 @@ Here is an image of my alligator prototyping stage!
 </details>
 
 ## The Knitting-Aid! in Action!
+#### Adding 3 to the row count, and opening the light sensor flap to make the pink LEDs light up with the binary number.
+
+#### Reaching 9 completed rows to be working on the 10th row. Cyan light turns on and the Tinkerbell tune plays.
 
 
 **Tips to my past self!**
@@ -83,3 +85,4 @@ Here is an image of my alligator prototyping stage!
 Citations:
 - Tinkerbell DS Game Title Theme: [musescore](https://musescore.com/user/84558067/scores/19627369)
 - Turninig Music Sheet to Arduino Code: [Intructables](https://www.instructables.com/Arduino-Music-From-Sheet-Music/)
+- compress.mov to convert .mov videos to .mp4
