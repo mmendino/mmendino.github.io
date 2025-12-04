@@ -2,6 +2,7 @@
 layout: post
 title: the Knitting-Aid! Report
 subtitle: Final Report of the creation of the Knitting-Aid
+thumbnail-img: /assets/img/knittingAid_Comp.jpg
 tags: [final project, complete]
 author: Melissa Mendino Solano
 ---
