@@ -56,9 +56,6 @@ Back of the teacup
 <img src="/assets/img/theKnittingAid Back Prototype.jpg" width="90%" />
 </p>
 
-#### Lilypad Onboard LEDs and Button Prototype:
-
-
 #### Alligator Clip Prototype:
 <p float="center">
 <img src="/assets/img/knittingAid_alligator.jpg" width="90%" />
