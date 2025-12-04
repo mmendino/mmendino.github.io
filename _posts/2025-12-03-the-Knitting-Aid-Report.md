@@ -21,7 +21,11 @@ Materials List:
 | Buzzer | light purple felt | scissors |
 | conductive thread | dark purple felt | alligator clips |
 | Lilypad Arduino | green felt | velcro strip |
-| Light Sensor | pink thread |
-| Conductive Fabric | white felt |
-| LiPo Battery | cream thread |
-|  | polyfill stuffing |
+| Light Sensor | pink thread | |
+| Conductive Fabric | white felt | |
+| LiPo Battery | cream thread | |
+|  | polyfill stuffing | |
+
+Tips to my past self!
+- Do not forget to code your project in sections! I was overconfident and tried to code my actions all together, but realized that I couldn't test it unless it was in separate files.
+- For the button counter, 
