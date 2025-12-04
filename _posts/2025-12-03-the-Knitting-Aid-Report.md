@@ -8,7 +8,7 @@ author: Melissa Mendino Solano
 
 the Knitting-Aid! is an adorable teacup-shaped product helps a knitter (or crocheter) keep track of their rows and informs them when it is time to make a change! This specific model shows the knitter when they are on every 10th row to increase or decrease their stitches. You simply need to press the teabag shaped button after you have completed a row, and it will keep track of the total rows. When you reach the 10th row, a little tune will play and a cyan light will turn on!
 
-The motivation for this product arose from my issue trying to keep track of my rows while knitting the Sophie Hood by PetiteKnit. I was knitting the large size where I had to increase every 10th row, but needed to keep a notebook and pen to count my rows. This wasn't very comfortable and sometimes I would lose my writing instrument, which is why, with the Knitting-Aid, you simply have to push a button to count your rows and it will inform you when it is time to increase.
+The motivation for this product arose from my issue trying to keep track of my rows while knitting the Sophie Hood by PetiteKnit. I was knitting the large size where I had to increase every 10th row, but needed to keep a notebook and pen to count my rows. This wasn't very comfortable and sometimes I would lose my pen, which is why, with the Knitting-Aid, you simply have to push a button to count your rows and it will inform you when it is time to increase. *(Plus it's prettier than other row counters)*
 
 When you reach every 10th row by pressing your completed 9th row, the RGB light with turn cyan and the Tinkerbell DS Game Title Theme music plays. The tune only plays once, but the cyan light will be on until you complete the 10th row.
 
@@ -52,10 +52,16 @@ Here is an image of my alligator prototyping stage!
 <center><b>The Completed Knitting-Aid!</b></center>
 ![front of knitting-aid with teabag](https://github.com/mmendino/mmendino.github.io/blob/master/assets/img/knittingAid_Comp.jpg?raw=true)
 
-<p>
+<details markdown="1">
+<summary>More details</summary> 
+<p float="center">
 <img src="/assets/img/knittingAid_Comp_front.jpg" width="48%" />
 <img src="/assets/img/knittingAid_Comp_back.jpg" width="48%" />
 </p>
+</details>
+
+## The Knitting-Aid! in Action!
+
 
 **Tips to my past self!**
 - Do not forget to code your project in sections! I was overconfident and tried to code my actions all together, but realized that I couldn't test it unless it was in separate files.
