@@ -116,5 +116,5 @@ The gif does not allow for sound.
 - Vincent helped me read the sheet music and figure out the note frequencies.
 - Tinkerbell DS Game Title Theme: [musescore](https://musescore.com/user/84558067/scores/19627369)
 - Turning Music Sheet to Arduino Code: [Intructables](https://www.instructables.com/Arduino-Music-From-Sheet-Music/)
-- .mov videos to .mp4: <compress.mov>
-- .mp4 to .gif: <Freeconvert.com>
+- .mov videos to .mp4: [compress.mov](https://compress.mov/)
+- .mp4 to .gif: [Freeconvert.com](https://www.freeconvert.com/)
