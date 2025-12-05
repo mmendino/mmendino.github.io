@@ -8,7 +8,7 @@ author: Melissa Mendino Solano
 ---
 
 <center><img src="/assets/img/knittingAid_Comp.jpg" width="80%" /></center>
-<center>the Knitting-Aid!</center>
+<center><b>the Knitting-Aid!</b></center>
 
 the Knitting-Aid! is an adorable teacup-shaped product helps a knitter (or crocheter) keep track of their rows and informs them when it is time to make a change! This specific model shows the knitter when they are on every 10th row to increase or decrease their stitches. You simply need to press the teabag shaped button after you have completed a row, and it will keep track of the total rows. When you reach the 10th row, a little tune will play and a cyan light will turn on!
 
@@ -45,7 +45,7 @@ Materials List:
 | | 1 white embroidery floss |
 | | 1 green embroidery floss|
 
-### Prototyping Stages
+## Prototyping Stages
 #### Paper Prototype:
 Front of the teacup
 <p float="center">
@@ -69,7 +69,7 @@ Back of the teacup
 <center><img src="/assets/img/knittingAid_outside.jpg" width="80%" /></center>
 </details>
 
-### Final Product
+## Final Product
 <p>
 </p>
 <center><b>Front and Back of the Knitting-Aid!</b></center>
@@ -112,9 +112,9 @@ The gif does not allow for sound.
 - Coding music from a music sheet
 - using the onboard LEDs to test my code
 
-Citations:
+**Citations:**
 - Vincent helped me read the sheet music and figure out the note frequencies.
 - Tinkerbell DS Game Title Theme: [musescore](https://musescore.com/user/84558067/scores/19627369)
-- Turninig Music Sheet to Arduino Code: [Intructables](https://www.instructables.com/Arduino-Music-From-Sheet-Music/)
-- .mov videos to .mp4: compress.mov
-- .mp4 to .gif: Freeconvert.com
+- Turning Music Sheet to Arduino Code: [Intructables](https://www.instructables.com/Arduino-Music-From-Sheet-Music/)
+- .mov videos to .mp4: <compress.mov>
+- .mp4 to .gif: <Freeconvert.com>
