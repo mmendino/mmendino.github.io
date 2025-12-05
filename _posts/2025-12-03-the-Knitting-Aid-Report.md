@@ -92,6 +92,11 @@ Back of the teacup
 <p float="center">
 <img src="/assets/img/knittingAid_Vid_buzzer_13.34.16.gif" width="70%" />
 </p>
+The gif does not allow for sound.
+
+#### Please click [here](https://youtu.be/FyX0LMeZxUg) to see the Knitting-Aid! in action on Youtube with sound.
+<p>
+</p>
 
 **Tips to my past self!**
 - Do not forget to code your project in sections! I was overconfident and tried to code my actions all together, but realized that I couldn't test it unless it was in separate files.
